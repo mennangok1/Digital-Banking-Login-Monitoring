@@ -11,3 +11,4 @@ Real-time data pipeline for monitoring digital banking login/logout events using
 - **Dockerized Services**: Portable, reproducible deployment with Docker Compose  
 
 ## 🏗️ Architecture
+![System Architecture](images/data_flow.png)
